@@ -20,3 +20,5 @@ for i in range(1,101):
     for i in range(30):
         members_file.write(members[i]['href'] + "\n")
 
+members_file.write("patrickhwillems" + "\n")
+members_file.write("anuragkashyap" + "\n")
